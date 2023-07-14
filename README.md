@@ -1,4 +1,4 @@
-# bibliotleca_pandas
+# vendas_varejo
 
 Este repositório contém um sistema de análise de vendas com informações relevantes sobre os produtos comercializados. Ele oferece insights valiosos sobre as vendas realizadas, incluindo dados sobre os departamentos mais vendidos, média de preço com frete por nome e departamento, quantidade de vendas por mês, média de renda para cada tipo de canal de venda e média de idade de clientes por bandeira.
 
